@@ -1,8 +1,6 @@
 # Kill Teamviewer Window
 
-[![star](https://gitee.com/Richex/KillTeamviewerWindow/badge/star.svg?theme=dark)](https://gitee.com/Richex/KillTeamviewerWindow/stargazers)
-
-[GitHub](https://github.com/richex-cn/KillTeamviewerWindow)
+[GitHub](https://github.com/richex-cn/KillTeamviewerWindow) / [码云](https://gitee.com/Richex/KillTeamviewerWindow)
 
 
 ## 介绍
